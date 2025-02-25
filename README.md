@@ -10,14 +10,12 @@
 
 
 
-### Sobre mí  
+## Sobre mí  
 Estudiante de Administración de sistemas informáticos en red. Técnico en Sistemas Microinformáticos y Redes. Diseño y publicación de páginas web.  
   
 
-<br/>  
 
-
-## Rapidfire  
+ 
 <table><tr><td valign="top" width="50%">
 
 
