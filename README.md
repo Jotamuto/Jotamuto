@@ -17,7 +17,7 @@ videojuegos y diseño gráfico.
 
 
  
-<table style="border: hidden"><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="50%">
 
 
 
