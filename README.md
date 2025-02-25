@@ -20,18 +20,18 @@ Estudiante de Administración de sistemas informáticos en red. Técnico en Sist
 
 
 
-### 📍 Ubicación:  
+### **📍 Ubicación:  **
   - Cartagena - Murcia 
  
   
 
-### 🎓 Formación:  
+### **🎓 Formación: ** 
   - Técnico en Sistemas Microinformáticos y Redes.
   - Diseño y publicación de páginas web.  
 
   
 
-### 📚 Actualidad:
+###** 📚 Actualidad:**
   - Estudiante de Administración de sistemas informáticos y redes.  
 
 
