@@ -35,7 +35,7 @@ Estudiante de Administración de sistemas informáticos y redes.
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/14011726/94132137-7d4fc100-fe7c-11ea-8512-69f90cb65e48.gif" align="center" style="width: 100%" />
+<img src="https://user-images.githubusercontent.com/6876788/96633009-d1818000-1318-11eb-9f1d-7f914f4ccb16.gif" align="center" style="width: 100%" />
 </div>  
 
 
