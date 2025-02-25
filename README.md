@@ -11,7 +11,8 @@
 
 
 ## Sobre mí  
-Estudiante de Administración de sistemas informáticos en red. Técnico en Sistemas Microinformáticos y Redes. Diseño y publicación de páginas web.  
+Actualmente estoy cursando Administración de sistemas informáticos en red. Estudié Diseño web y soy Técnico de sistemas Microinformáticos y redes. Siempre me llamó la atención el mundo de la tecnología, 
+videojuegos y diseño gráfico. 
   
 
 
@@ -27,7 +28,7 @@ Estudiante de Administración de sistemas informáticos en red. Técnico en Sist
 
 ### 🎓 Formación: 
   - Técnico en Sistemas Microinformáticos y Redes.
-  - Diseño y publicación de páginas web.  
+  - Diseño web.  
 
   
 
